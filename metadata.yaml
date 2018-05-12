@@ -1,0 +1,34 @@
+_repo: True-Tales-of-Mountain-AdventuresFor-Non-Climbers-Young-and-Old_42758
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42758-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Le Blond, Aubrey, Mrs.
+    aliases:
+    - Blond, Aubrey le, Mrs.
+    - Le Blond, Elizabeth Alice Frances Hawkins-Whitshed
+    - Blond, Mrs. Aubrey le
+    - Aubrey le Blond, Mrs.
+    - Main, Mrs. (Elizabeth)
+    - Burnaby, Fred, Mrs.
+    deathdate: 1934
+    gutenberg_agent_id: '41857'
+    url: http://www.gutenberg.org/2009/agents/41857
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Hawkins-Whitshed
+description: ''
+gutenberg_issued: '2013-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42758'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DQ'
+- !lcsh 'Alps -- Description and travel'
+- !lcsh 'Mountaineering'
+title: 'True Tales of Mountain Adventures: For Non-Climbers Young and Old'
+url: http://www.gutenberg.org/ebooks/42758
